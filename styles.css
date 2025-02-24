@@ -22,12 +22,11 @@
 }
 
 .author{
-	font-size:11px;
 	color:#777777;
 }
 
 .price{
-	background-color:#2ecc71;
+	background-color:rgb(46, 204, 113);
 	color:white;
 	text-align:center;
 	font-size:13px;
